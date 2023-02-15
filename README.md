@@ -43,3 +43,32 @@ Here is an example of a university program that would be useful to someone who w
 *"Learn all about protecting our networks and wireless devices, from the largest computer databases used in banking, government and corporations to the smallest of IoT devices like smart home appliances and cameras. In this area of computer science, you will study threats to computer systems and networks and develop the science and practice of how to mitigate them. You’ll learn about topics such as cryptography, vulnerabilities & penetration testing and attack detection."*
 
 ### _First Year Courses_
+
+## **Real Jobs**
+
+### _Entry Level Position_
+**Salary**
+
+**Location**
+
+**Job Responsibilities**
+
+**Required Skills**
+
+### _Mid-Level Position_
+**Salary**
+
+**Location**
+
+**Job Responsibilities**
+
+**Required Skills**
+
+### _Senior Level Position_
+**Salary**
+
+**Location**
+
+**Job Responsibilities**
+
+**Required Skills**

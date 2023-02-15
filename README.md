@@ -22,6 +22,24 @@ A bachelor's degree in computing, cybersecurity, computer science or software en
 |:-----:|:-----:|:-----:|
 |$86,500|$92,608|$123,923|
 
-## **Standard Education**
-Here is an example of a university program that 
-### _University Program_
+## **Education**
+Here is an example of a university program that would be useful to someone who wants to pursue a career in Cyber Security
+### **Program: Compter Security at York University**
+* Program Length: Four Years
+* Co-op or internship options available
+
+### _Entrance Requirements_
+* Ontario Secondary School Diploma
+*  Grade average in the low 90s
+* ENG4U course
+* SCH4U or SPH4U
+* MHF4U
+* Another 4U Math (MCV4U recommended)
+* 2 additional 4U/M courses
+* Minimum math average of 75%
+* No math grade below 65%
+
+### _Program Description_
+*"Learn all about protecting our networks and wireless devices, from the largest computer databases used in banking, government and corporations to the smallest of IoT devices like smart home appliances and cameras. In this area of computer science, you will study threats to computer systems and networks and develop the science and practice of how to mitigate them. You’ll learn about topics such as cryptography, vulnerabilities & penetration testing and attack detection."*
+
+### _First Year Courses_

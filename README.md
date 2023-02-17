@@ -28,7 +28,9 @@ A bachelor's degree in computing, cybersecurity, computer science or software en
 ---
 # **Standard Education**
 Here is an example of a university program that would be useful to someone who wants to pursue a career in Cyber Security
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_York_University.svg/2560px-Logo_York_University.svg.png" width="426.5" height="153.5">
+
 ### **Program:** [**Computer Security at York University**](https://futurestudents.yorku.ca/program/computer-security "Program Website")
 * Program Length: *Four Years*
 * Co-op or internship options available
@@ -57,6 +59,8 @@ Here is an example of a university program that would be useful to someone who w
 
 ---
 # **Experiential Learning**
+<img src="https://lassonde.yorku.ca/wp-content/uploads/pexels-thisisengineering-3861958-1920x1281.jpg" width="320" height="220">
+
 There are many different ways to gain experience that will help you become a Cyber Security Specialist outside of traditional schooling. Pursuing these opportunities, you will acquire valuable skills that will help you stand out as a job candidate: 
 
 * **Personal Projects**: Working on personal initiatives related to coding and cybersecurity, such as creating software in your spare time. This will help you get hands-on experience with coding and improve skills that will help you in your job.
@@ -72,6 +76,9 @@ There are many different ways to gain experience that will help you become a Cyb
 # **Real Jobs**
 
 ### _Entry Level Position:_ [_Information Security Analyst at The Toronto Transit Comission_](https://ca.indeed.com/viewjob?jk=6ece1342ad5fcf61&tk=1gp8t58mui6lt800&from=serp&vjs=3 "Indeed.com Job Posting")
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TTC.svg/2560px-TTC.svg.png" width="100" height="40">
+
 **Salary**
 * $86,577 - $108,235 anually
 
@@ -99,6 +106,7 @@ performs related duties as assigned.
 
 
 ### _Mid-Level Position_ [_IT Analyst and Cyber Security Administrator at Highlight Motor Freight Inc._](https://ca.indeed.com/viewjob?jk=db5f545418e2289f&q=Cyber+Security&tk=1gp8t58mui6lt800&from=web&advn=9385227325796523&adid=406142846&ad=-6NYlbfkN0ADw9qzcUM7kXoYBl3PUzeJblkoI70OElDAFOpNbRRjBvcvMD2xYbvmFwrUy4Qy4GG1qWaA_0-Gql7vEjVRaxL4vEK8Xi--Q_EDeHy-f4xaQevAa8ywGaxCiRcz7fhu-dZnTDCYFI2u2aRf1jYnn-exy3b4M3cARl5xC1qcxPFNfQZGewU3F1KxyVdDoZMAYCX7hFd3lstb5dIlhrtCNCiYZ1ridBqIzzcsq2jjSDbxitsCC2grqfQghst6NR1zsMx9Hz2ggFxfGUvlp_CotvpXCCQuL_3wvgG6s3qNnp2mqQpAIuHd73KZkxk9uD23Rv2l4AL-WV6hmG6NMtZ4N6qO4MRzj8evAqC-qOArhq8PsXo5uUfPwDoK38N6GDnEk-5ktKwLTEtYvFq1GLlaw9OCUT4RW_AWuuL0Jod4Fu8DWAttmIlA5rlU&pub=4a1b367933fd867b19b072952f68dceb&xkcb=SoAm-_M3ToyawGQ8KJ0MbzkdCdPP&vjs=3 "Indeed.com Job Posting")
+
 **Salary**
 * $87,300 anually
 
@@ -129,6 +137,8 @@ Analyzing human-IT processes and advise information technology strategies.
 
 
 ### _Senior Level Position_ [_Cyber Security Manager at Virtus Groups_](https://ca.indeed.com/viewjob?jk=f8dfcbed7ebb685b&q=Cyber+Security+Canada&tk=1gp8m3s5mm3cm800&from=web&advn=4371461164512307&adid=406732187&ad=-6NYlbfkN0DmYFwFT8mQP3s44d5e2OugU524t6Zq4LhKxhnWwstGn-4IeLJgu5sBTnNgpwdbVHqvy54jSF6IIdCaZC-eiz2GuRX0rVy7LXY07KvE4PO3907OjuS_-RChZF8YKx26EwXTis7JZb4B2U3bFGocbFi4xBTMYAVumZ92PJfJsfsWEUKlw36X-vpu96oQfi0dvrIjNbF-S35YKTLgowPm7A81gFNyBHyZrRxGIrbfFZ2nAEjeVTXVXGWA8p22v86143MturheDmEVTXq4wc_5FPcaPAVdRppllp_E-DMGdcAA8_rXB1Kt-Y3mVrd8YR_Ok_w50EpmwJUsWPWkL4o-oFqllQlt20V9OLuXgKeRgX4y0BOmVGaC7uhMUX5YDj4lTyGIBvZpeEzWPzslb6HFr8sWPYc95aSQ93-ITRTQUzkBPeS60U6XBna7&pub=4a1b367933fd867b19b072952f68dceb&xkcb=SoDG-_M3TokAUgR1Nh0LbzkdCdPP&vjs=3 "Indeed.com Job Posting")
+
+
 **Salary**
 * $130,000–$150,000 anually
 
@@ -152,9 +162,9 @@ Analyzing human-IT processes and advise information technology strategies.
 ---
 # **Works Cited**
 
-Barking Dog Studios,  “Computer Security (BSC).” Ontario Universities' INFO, https://www.ontariouniversitiesinfo.ca/programs/1163. 
-
 Barking Dog Studios. “Computer Security (BSC).” Ontario Universities' INFO, https://www.ontariouniversitiesinfo.ca/programs/1163. 
+
+“Computer Security (BSC).” Ontario Universities' INFO, Barking Dog Studios, https://www.ontariouniversitiesinfo.ca/programs/1163. 
 
 “Computer Security (BSC, BA).” Electrical Engineering and Computer Science, 11 Mar. 2022, https://lassonde.yorku.ca/eecs/academics/undergraduate/future-students/computer-security-bsc-ba/. 
 
@@ -166,9 +176,13 @@ Barking Dog Studios. “Computer Security (BSC).” Ontario Universities' INFO, 
 
 Highlight Motor Freight Inc. “IT Analyst and Cyber Security Administrator.” Indeed, 2023, https://ca.indeed.com/viewjob?jk=db5f545418e2289f&amp;q=Cyber+Security&amp;tk=1gp8t58mui6lt800&amp;from=web&amp;advn=9385227325796523&amp;adid=406142846&amp;ad=-6NYlbfkNn.d.w9qzcUM7kXoYBl3PUzeJblkoI70OElDAFOpNbRRjBvcvMD2xYbvmFwrUy4Qy4GG1qWaA_0-Gql7vEjVRaxL4vEK8Xi--Q_EDeHy-f4xaQevAa8ywGaxCiRcz7fhu-dZnTDCYFI2u2aRf1jYnn-exy3b4M3cARl5xC1qcxPFNfQZGewU3F1KxyVdDoZMAYCX7hFd3lstb5dIlhrtCNCiYZ1ridBqIzzcsq2jjSDbxitsCC2grqfQghst6NR1zsMx9Hz2ggFxfGUvlp_CotvpXCCQuL_3wvgG6s3qNnp2mqQpAIuHd73KZkxk9uD23Rv2l4AL-WV6hmG6NMtZ4N6qO4MRzj8evAqC-qOArhq8PsXo5uUfPwDoK38N6GDnEk-5ktKwLTEtYvFq1GLlaw9OCUT4RW_AWuuL0Jod4Fu8DWAttmIlA5rlU&amp;pub=4a1b367933fd867b19b072952f68dceb&amp;xkcb=SoAm-_M3ToyawGQ8KJ0MbzkdCdPP&amp;vjs=3. 
 
+“Homepage.” Lassonde School of Engineering, 18 Oct. 2022, https://lassonde.yorku.ca/. 
+
 Krakoff, Sonya. “Top Cybersecurity Skills in High Demand.” Champlain College Online, https://online.champlain.edu/blog/top-cybersecurity-skills-in-high-demand. 
 
 Toronto Transit Comission. “Information Security Analyst (Cybersecurity Awareness).” Indeed, 13 Feb. 2023, https://ca.indeed.com/viewjob?jk=6ece1342ad5fcf61&amp;tk=1gp8t58mui6lt800&amp;from=serp&amp;vjs=3. 
+
+Toronto Transit Commission. “Logo of the Toronto Transit Commission.” Wikimedia Commons, 24 Sept. 2019, https://commons.wikimedia.org/wiki/File:TTC.svg. 
 
 Virtus Groups. “Cyber Security Manager.” Indeed, 2023, https://ca.indeed.com/viewjob?jk=f8dfcbed7ebb685b&amp;q=Cyber+Security+Canada&amp;tk=1gp8m3s5mm3cm800&amp;from=web&amp;advn=4371461164512307&amp;adid=406732187&amp;ad=-6NYlbfkN0DmYFwFT8mQP3s44d5e2OugU524t6Zq4LhKxhnWwstGn-4IeLJgu5sBTnNgpwdbVHqvy54jSF6IIdCaZC-eiz2GuRX0rVy7LXY07KvE4PO3907OjuS_-RChZF8YKx26EwXTis7JZb4B2U3bFGocbFi4xBTMYAVumZ92PJfJsfsWEUKlw36X-vpu96oQfi0dvrIjNbF-S35YKTLgowPm7A81gFNyBHyZrRxGIrbfFZ2nAEjeVTXVXGWA8p22v86143MturheDmEVTXq4wc_5FPcaPAVdRppllp_E-DMGdcAA8_rXB1Kt-Y3mVrd8YR_Ok_w50EpmwJUsWPWkL4o-oFqllQlt20V9OLuXgKeRgX4y0BOmVGaC7uhMUX5YDj4lTyGIBvZpeEzWPzslb6HFr8sWPYc95aSQ93-ITRTQUzkBPeS60U6XBna7&amp;pub=4a1b367933fd867b19b072952f68dceb&amp;xkcb=SoDG-_M3TokAUgR1Nh0LbzkdCdPP&amp;vjs=3. 
 

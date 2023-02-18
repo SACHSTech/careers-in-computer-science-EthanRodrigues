@@ -151,8 +151,8 @@ Analyzing human-IT processes and advise information technology strategies.
 
 
 **Required Skills**
-* Cybersecurity: 6 years (preferred)
-* Management: 3 years (preferred)
+* Cybersecurity: 6 years 
+* Management: 3 years 
 * Be able to effectively communicate complex information both verbally and in writing to various stakeholders
 * You are a people person first with a strong technical skill set
 * Bachelor's degree in Information Technology, Engineering or Computer Science
